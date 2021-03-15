@@ -13,7 +13,7 @@ No projeto foi utilizado o node, junto com as ferramentas cors, knex e sqlite.
 ### Clone do projeto:
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/VJPbr/bridgeback
 ```
 
 ### Instalar as dependências:
